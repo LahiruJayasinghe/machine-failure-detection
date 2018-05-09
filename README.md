@@ -14,7 +14,7 @@ pandas > 0.20.3
 
 Data streams from an active two industrial machines in a customer site. Due to the big dataset, it has been embedded in to pickle files to increase the computational efficiency. 
 
-## Dataset structure
+## Dataset structure (Time Synchronized)
 
 ![Screenshot](screenshots/dataset_structure.PNG)
 
