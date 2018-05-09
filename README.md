@@ -12,7 +12,7 @@ pandas > 0.20.3
 
 # Dataset
 
-Data streams from an active industrial machine in a customer site. Due to the big dataset, it has been embedded in to pickle files to increase the computational efficiency. 
+Data streams from an active two industrial machines in a customer site. Due to the big dataset, it has been embedded in to pickle files to increase the computational efficiency. 
 
 ## Dataset structure
 
