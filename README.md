@@ -26,8 +26,8 @@ Data streams from an active industrial machine in a customer site. Due to the bi
 
 ## Results of anomaly detection
 
-![Screenshot](screenshots/result_1.PNG)
-![Screenshot](screenshots/result_2.PNG)
+![Screenshot](screenshots/results_1.PNG)
+![Screenshot](screenshots/results_2.PNG)
 
 ## Current work
 
