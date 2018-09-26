@@ -26,4 +26,6 @@ pickel files of the dataset: https://www.dropbox.com/s/jt0nsqsmqxm8wz4/pickle.ra
 ![Screenshot](screenshots/results_1.PNG)
 ![Screenshot](screenshots/results_2.PNG)
 
+### Degradation Model
+
 The degradation model for remaining useful life estimation can be found [here](https://github.com/LahiruJayasinghe/RUL-Net) 
