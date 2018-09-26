@@ -1,35 +1,29 @@
 # Predictive-Maintance-Model
-## Completed work:
-A requirement to implement a degradation model for an industrial machine and predict the failures beforehand. Currently, PCA and clustering based anomaly detection method for time series has been implemented. 
 
-# Dependencies
+A requirement to implement a degradation model for an industrial machine and predict the failures beforehand.
+Malfunctioning of machines are captured here as anomalies and failures and its related data are captured here as outliers
 
-numpy
+### Dependencies
 
-scikit-learn > 0.19.1
+- numpy
+- scikit-learn > 0.19.1
+- pandas > 0.20.3
 
-pandas > 0.20.3
-
-# Dataset
+### Dataset
 
 Data streams from an active two industrial machines in a customer site. Due to the big dataset, it has been embedded in to pickle files to increase the computational efficiency.
 Dataset: https://www.dropbox.com/s/jt0nsqsmqxm8wz4/pickle.rar?dl=0 
 
-## Dataset structure (Time Synchronized)
+### Dataset structure (Time Synchronized)
 
 ![Screenshot](screenshots/dataset_structure.PNG)
 
-# Completed work Summery
-
-## Architecture
+### Architecture
 
 ![Screenshot](screenshots/current_work.PNG)
 
-## Results of anomaly detection
+### Results of anomaly and outlier detection
 
 ![Screenshot](screenshots/results_1.PNG)
 ![Screenshot](screenshots/results_2.PNG)
 
-## Current work
-
-Implementing a time series prediction and tracking of outliers using LSTM and CNN, (on-going project).
