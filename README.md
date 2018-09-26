@@ -11,8 +11,7 @@ Malfunctioning of machines are captured here as anomalies and failures and its r
 
 ### Dataset
 
-Data streams from an active two industrial machines in a customer site. Due to the big dataset, it has been embedded in to pickle files to increase the computational efficiency.
-Dataset: https://www.dropbox.com/s/jt0nsqsmqxm8wz4/pickle.rar?dl=0 
+pickel files of the dataset: https://www.dropbox.com/s/jt0nsqsmqxm8wz4/pickle.rar?dl=0 
 
 ### Dataset structure (Time Synchronized)
 
